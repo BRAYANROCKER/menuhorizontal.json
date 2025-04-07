@@ -1,0 +1,44 @@
+{
+  "enlaces": [
+    {
+      "nombre": "Series de TV",
+      "link": "#"
+    },
+    {
+      "nombre": "Series Finalizadas",
+      "link": "#"
+    },
+    {
+      "nombre": "Series en Emision",
+      "link": "#"
+    },
+    {
+      "nombre": "Series Animadas",
+      "link": "#"
+    },
+    {
+      "nombre": "JUEGOS de PC",
+      "link": "#"
+    },
+    {
+      "nombre": "Libros",
+      "link": "#"
+    },
+    {
+      "nombre": "Software/Programas",
+      "link": "#"
+    },
+    {
+      "nombre": "Juegos con Pocos REQUISITOS",
+      "link": "#"
+    },
+    {
+      "nombre": "Juegos Android",
+      "link": "#"
+    },
+    {
+      "nombre": "Reportar Link Caido",
+      "link": "#"
+    }
+  ]
+}
